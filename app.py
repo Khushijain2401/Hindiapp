@@ -5,7 +5,7 @@ import openai
 from openai import OpenAI
 
 # Page config
-st.set_page_config(page_title="Hindi Learning Chatbot", layout="centered")
+st.set_page_config(page_title="Hindi speaking app by Khushi", layout="centered")
 st.title("🗣️ Hindi Learning Chatbot")
 st.markdown("Ask me anything, and I'll help you learn Hindi!")
 
