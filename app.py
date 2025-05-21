@@ -6,7 +6,7 @@ from openai import OpenAI
 
 # Page config
 st.set_page_config(page_title="Hindi speaking app by Khushi", layout="centered")
-st.title("🗣️ Hindi Learning Chatbot")
+st.title("🗣️ Hindi speaking app by Khushi")
 st.markdown("Ask me anything, and I'll help you learn Hindi!")
 
 # Load API key from environment variable
